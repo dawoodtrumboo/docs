@@ -22,7 +22,14 @@
           {
             "group": "Modules",
             "pages": [
-              "modules/forms"
+              "modules/forms",
+               "modules/workflows",
+               "modules/tasks",
+               "modules/analytics",
+               "modules/chat",
+               "modules/dashboard",
+               "modules/email",
+               "modules/appstore"
             ]
           }
         ]
