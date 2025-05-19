@@ -11,25 +11,18 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Web",
         "groups": [
           {
             "group": "Get Started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Modules",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "modules/forms"
             ]
           }
         ]
